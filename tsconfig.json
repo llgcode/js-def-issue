@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "definitions",
+        "emitDeclarationOnly": true,
+        "allowJs": true,
+        "checkJs": true,
+    },
+    "include": [
+        "**/*"
+    ]
+    
+}
